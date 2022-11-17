@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+
+#formdata
+{
+  width: 600px;
+  position: relative;
+  top: 170px;
+  left: 380px;
+  padding: 50px 0px 100px 0px;
+  box-shadow: 10px 10px 50px;
+  border-radius: 20px;
+  margin: 20px;
+}
+
+#tabledata
+{
+  width: 800px;
+  position: absolute;
+  right: 0;
+  padding: 50px 0px 100px 0px;
+  border-radius: 20px;
+  margin: 20px;
+}
+
+input
+{
+  border-radius: 5px;
+  height: 25px;
+  margin-left: 30px;
+  border: 1px;
+  background-color:rgb(132, 126, 126) ;
+}
+
+::placeholder
+{
+  color: black;
+  text-align: center;
+}
+
+#submitb
+{
+   border-radius: 10px;
+   width: 120px;
+   height: 30px;
+   border: 2px;
+   background-color: rgb(132, 126, 126);
+}
+#submitb:hover
+{
+  box-shadow: 0px 0px 50px 10px 10px 60px 50px 50px 70px;
+}
+#tabledata
+{
+  width: 800px;
+  /* position: absolute;
+  right: 0; */
+  /* padding: 50px 0px 100px 0px; */
+  border-radius: 20px;
+  margin: 20px;
+  position: relative;
+  left: 300px;
+  top: 100px;
+}
+caption
+{
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 70px;
+  display: flex;
+  position: relative;
+  left: 330px;
+}
+#seeb
+{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.container
+{
+  position: relative;
+  top: 180px;
+  font-weight: bold;
+}
+#tablecaption
+{
+  position: relative;
+  top: 50px;
+}
+#goback
+{
+  position: relative;
+  top: 500px;
+}
